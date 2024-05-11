@@ -15,5 +15,5 @@ git clone url-del-proyecto
 ''' bash
 
 git add -A
-git -m "nombre descriptivo del cambio"
-git push
+git commit -m "nombre descriptivo del cambio"
+git push, lanzar el cambio a la nube
