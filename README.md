@@ -5,4 +5,15 @@ Aqui tengo todos los ejercicios que he realizado durante el modulo 1 del curso d
 
 ## RESUMEN COMANDOS GIT
 
-''' bash git clone url-del-proyecto '''
+- Para clonar un repositorio
+
+''' bash 
+git clone url-del-proyecto 
+'''
+
+- Para subir los cambios a Git hub
+''' bash
+
+git add -A
+git -m "nombre descriptivo del cambio"
+git push
